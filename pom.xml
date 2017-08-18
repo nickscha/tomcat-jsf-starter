@@ -24,7 +24,7 @@
 
 		<!-- CDI -->
 		<cdi.api>2.0</cdi.api>
-		<cdi.impl>3.0.0.Alpha1</cdi.impl>
+		<cdi.impl>3.0.0.Final</cdi.impl>
 	</properties>
 
 	<dependencies>
@@ -63,7 +63,7 @@
 		</dependency>
 		<dependency>
 			<groupId>org.jboss.weld.servlet</groupId>
-			<artifactId>weld-servlet</artifactId>
+			<artifactId>weld-servlet-shaded</artifactId>
 			<version>${cdi.impl}</version>
 			<scope>runtime</scope>
 		</dependency>
