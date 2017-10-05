@@ -11,7 +11,7 @@ This sample project supports the following specifications.
 
 | Type          | API    | Implementation      |
 | ------------- | -----: | ------------------- |  
-| CDI           | 2.0    | 3.0.0.Final (Weld)  |
+| CDI           | 2.0    | 3.0.1.Final (Weld)  |
 | Servlet       | 3.1    | provided            |
 | JSF           | 2.3    | 2.3.2 (Oracle)      |
 | PrimeFaces    |        | 6.1                 |
